@@ -66,9 +66,9 @@ A challenge I had was an unknown bug. When I tried to access rvtweets, I would g
     
  ----- Part 2 -----
    
-# Project 4 - *Simple tweeter app*
+# Project 4 - *Simple twitter app*
 
-**Simple tweeter app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**Simple twitter app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **3** hours spent in total
 
@@ -111,7 +111,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='SimpleTweet_compose.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/adiaz18011/SimpleTweet/blob/master/SimpleTweet_compose.gif' title='SimpleTweet_compose.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
