@@ -117,7 +117,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I had was trying to find a bug in my code. It was a simple fix because I added a comma after an integer in a function call that required one argument.
 
 ## Open-source libraries used
 
